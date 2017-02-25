@@ -48,12 +48,10 @@ h1 {
 	width: 100%;
 }
 
-.in_div {
-
-}
-
 p {
-	border: 1px solid black;
+	border-width: 0px 0px 1px 1px;
+	border-style: solid;
+	border-color: black;
 	width: 125px;
 	height: 40px;
 	line-height: 40px;
